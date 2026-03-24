@@ -453,7 +453,7 @@ header h1 {
     cursor: pointer;
     padding: 0.5rem 1rem;
     border: none;
-    background: #facc15;
+    background: #22c55e;
     border-radius: 6px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
@@ -463,12 +463,12 @@ header h1 {
 }
 
 .new-chat-btn:hover {
-    background: #eab308;
+    background: #16a34a;
 }
 
 .new-chat-btn:focus {
     outline: none;
-    box-shadow: 0 0 0 3px rgba(250, 204, 21, 0.3);
+    box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.3);
 }
 
 /* Sidebar Headers */
